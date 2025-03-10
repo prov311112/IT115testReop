@@ -1,0 +1,11 @@
+{
+    "name": "Sara Smith",
+    "age": 26,
+    "City": "Seattle, WA",
+    "interests": [
+        "swimming",
+        "music",
+        "cooking"
+    ],
+    "is_student": true
+}
